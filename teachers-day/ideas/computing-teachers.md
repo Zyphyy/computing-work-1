@@ -11,4 +11,4 @@ Ideas:
 - Create a collage of post-its, created by each student with appreciative messages
 - In addition to the post-it collage, we can create our own personal thank-you cards
 - Video montage of some sort
-- Story
+- Story 

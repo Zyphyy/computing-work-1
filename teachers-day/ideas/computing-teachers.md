@@ -1,4 +1,5 @@
 # Ideas for things to do for Teachers' Day
+- Give them notes of appreciation
 
 Computing teachers:
 - Mr Aaron Ho

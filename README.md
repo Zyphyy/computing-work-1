@@ -4,7 +4,7 @@ I am **Ma Weiyi**, a Year 1 Student currently studying in Dunman High School.
 
 My hobbies:
 - Thinking about death
-- Thinking about killing other people
+- Searching Google about guns
 - Playing with my cat
 
 My education:
@@ -23,3 +23,4 @@ My projects:
 - A quiz app, which I didn't manage to complete
 - Fooling around with some AI stuff, like CV, NLP. and multiple other databases
 - A discord bot, with only 3 commands, called "Foopus Bot"
+- A micro:bit program that ensures that you practice 1-meter social distancing

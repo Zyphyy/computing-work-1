@@ -24,4 +24,4 @@ My projects:
 - Fooling around with some AI stuff, like CV, NLP. and multiple other databases
 - A discord bot, with only 3 commands, called "Foopus Bot"
 - A micro:bit program that ensures that you practice 1-meter social distancing
-- DawgTech Industries Youtube (heh not code but yeah, might wanna try get minecraft)
+- DawgTech Industries, a YouTube channel (co-founded and currently the leading data analyst for the Minecraft-based channel)

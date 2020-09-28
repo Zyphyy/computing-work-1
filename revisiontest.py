@@ -85,17 +85,17 @@ while tracker !=1:
   answer = input("Your answer: ")
   answer = answer.lower()
   if answer == "a":
-    output = "Wrong. Think again - how many electron shells are filled, and which group is this in?"
+    output = "1010100101000010101010101101001101010101001001"
     score -=1
   elif answer == "b":
-    output = "Wrong.  Think again - how many electron shells are filled, and which group is this in?"
+    output = "WDOIJUASOPDWO0A8S6D987192IEJKDSALMLWOK10281923"
     score -=1
   elif answer == "c":
-    output = "Wrong.  Think again - how many electron shells are filled, and which group is this in?"
+    output = "UUIOWDGSYAUWUD0IOSPAISHDUWIUAYSDWASIWODAHUSDWIUSJAOWDJSOAOI"
     score -=1
     
   elif answer == "d":
-    output = "Yes, that's right!"
+    output = "OJAWJIDSAOW18U92UY76T2514567890-OKJMND SHAKLWKODJIWSAK"
     tracker =1
     score +=1
   else:
